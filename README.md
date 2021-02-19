@@ -1,6 +1,6 @@
 <p align="center"><a href="https://larabelles.com" target="_blank"><img src="resources/assets/larabelles-logo.svg" width="400"></a></p>
 
-## About Larabeles
+## About Larabelles
 
 Larabelles is a community that focuses on reducing barriers for people who identify as women to enter the world of technology. We do this by encouraging people to consider a career in tech and by providing a safe space to feel welcome and supported, not just at the beginning of their development career, but throughout.
 
