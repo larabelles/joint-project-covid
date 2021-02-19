@@ -13,3 +13,5 @@ If you have an idea for a new feature, you can either discuss your idea on our [
 ## How to contribute via PR
 
 Please follow the instructions written by Matt Stauffer on his [blog](https://mattstauffer.com/blog/how-to-contribute-to-an-open-source-github-project-using-your-own-fork/).
+
+Please create your PR against the `dev` branch.
